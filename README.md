@@ -8,8 +8,10 @@
 - 💻 Passionate about Technology & Innovation
 I’m driven by a love for technology, complex problem-solving, and the world of gaming.
 
-🎯 Actively Learning & Growing
+- 🎯 Actively Learning & Growing
 Exploring new horizons in Machine learning and Artificial intelligence, I’m constantly expanding my skill set and working on projects that challenge me to think creatively.
+
+How to reach me *ahaji0558@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
