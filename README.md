@@ -8,5 +8,3 @@ Exploring new horizons in Machine learning and Artificial intelligence, I’m co
 
 📬 Get in Touch
 Feel free to reach out at ahaji0558@gmail.com.
-
-
