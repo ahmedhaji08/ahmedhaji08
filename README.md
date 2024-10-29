@@ -5,7 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedhaji08&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedhaji08" /> </p>
 
-- 📫 How to reach me **ahaji0558@gmail.com**
+- 💻 Passionate about Technology & Innovation
+I’m driven by a love for technology, complex problem-solving, and the world of gaming.
+
+🎯 Actively Learning & Growing
+Exploring new horizons in Machine Learning and Artificial Intelligance, I’m constantly expanding my skill set and working on projects that challenge me to think creatively.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
